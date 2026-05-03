@@ -1,0 +1,6 @@
+{
+  "name": "Global Inventory Phone Case Store",
+  "description": "An eCommerce store with a shared global inventory system for blank phone cases, enabling multiple designs to share stock from a single source of truth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
